@@ -1,0 +1,251 @@
+ BODY { width: 1440PX;}
+
+ .top { width:500px;
+        height:500px;
+        background-color: white;
+        margin-top: -10px;
+        margin-left: -10px;}
+
+ .bottom {width:1000px;
+          height:450px; 
+          background-color: white;
+          margin-top: -500px;
+          margin-left: 350px;}
+
+   H1 { width: 400PX;
+        height: 100PX;
+        background-color: white;
+        margin-top:-350px;
+        margin-left: 230px;
+        font-family:    'League Spartan', sans-serif;
+        font-weight: 900;
+        color:  hsl(300, 43%, 22%);
+        font-size: 45px;
+        line-height: 40px;}
+
+        .mainparagraph{ width: 380PX;
+                        height: 180PX;
+                        background-color: white;
+                        display: inline-block;
+                        margin-top:15px;
+                        margin-left: 230px;
+                        font-family:    'League Spartan', sans-serif;
+                        font-weight: 400;
+                        color:  hsl(300, 43%, 22%);
+                        font-size: 15px;
+                        line-height: 20px;}
+
+
+            .starone{  width: 370px;
+                       height: 10px;
+                       background-color:  hsl(300, 24%, 96%);
+                       position: absolute;
+                       margin-left: 700px;
+                       margin-top: -320px;
+                       text-align: center;
+                       padding-top: 12px;
+                       padding-bottom:23px;
+                       border-radius: 10px;
+                       font-family:'League Spartan', sans-serif; 
+                       color: hsl(300, 43%, 22%);
+                       font-weight: 700;
+                       
+                       }
+
+       .iconstartone { margin-left:-20px;}
+       .textstarone{ margin-left: 20px;}
+
+
+       
+       .startwo{ width: 370px;
+                 height: 10px;
+                background-color:hsl(300, 24%, 96%);
+                position: absolute;
+                margin-left: 750px;
+                margin-top: -260px;
+                text-align: center;
+                padding-top: 12px;
+                padding-bottom:23px;
+                border-radius: 10px;
+                font-family:'League Spartan', sans-serif; 
+                color: hsl(300, 43%, 22%);
+                font-weight: 700;
+              
+              }
+
+.iconstartwo { margin-left:-20px;}
+.textstartwo{ margin-left: 20px;}
+
+
+.starthree{ width: 370px;
+            height: 10px;
+            background-color: hsl(300, 24%, 96%);
+            margin-left: 800px;
+            margin-top: -200px;
+            text-align: center;
+            padding-top: 12px;
+            padding-bottom:23px;
+            border-radius: 10px;
+            font-family:'League Spartan', sans-serif; 
+            color: hsl(300, 43%, 22%);
+            font-weight: 700;
+       
+       }
+
+.iconstarthree { margin-left:-20px;}
+.textstarthree{ margin-left: 20px;}
+
+    
+  
+
+.ColtonSmith { width: 280px;
+               height: 170px;
+              background-color:  hsl(300, 43%, 22%);
+
+              position: absolute;
+              margin-left: 230px;
+              margin-top: 100px;
+              border-radius: 5px;
+              color: white;
+
+       
+       
+       } 
+
+
+
+
+
+.smith {width: 30px;
+       height: 30px;
+       margin-top: 30px;
+       margin-left: 20px;
+       border-radius: 50px;
+       position: absolute;
+       }
+
+       .smithname{ margin-top:30px;
+                   display: inline-block;
+                   font-size: 14px;
+                   margin-left: 70px; 
+                   font-family:    'League Spartan', sans-serif;
+                   font-weight: 500;
+
+       }
+       .smithname::after { position: absolute;
+                           content: "Verified Buyer";
+                           margin-top: 16px;
+                           margin-left: -76px;
+                           color:  hsl(333, 80%, 67%);
+                           font-weight:400;
+
+                        }
+
+         
+        .smithparagraph { margin-top: 30px;
+                          color: hsl(300, 24%, 96%);
+                          margin-left: 15px;
+                          font-size: 14px;
+                          font-weight: 300;
+                          font-family:'League Spartan', sans-serif;
+
+        }
+
+
+        
+.IreneRoberts { width: 280px;
+                height: 170px;
+                background-color:  hsl(300, 43%, 22%);
+                position: absolute;
+                margin-left: 530px;
+                margin-top: 110px;
+                border-radius: 5px;
+                color: white;
+}
+
+
+.Irene { width: 30px;
+         height: 30px;
+         margin-top: 30px;
+         margin-left: 20px;
+        border-radius: 50px;
+        position: absolute;
+       }
+
+       .Irenename{ margin-top:30px;
+                   display: inline-block;
+                   font-size: 14px;
+                   margin-left: 70px; 
+                   font-family:    'League Spartan', sans-serif;
+                   font-weight: 500;
+
+       }
+       .Irenename::after { position: absolute;
+                           content: "IreneRoberts";
+                           margin-top: 16px;
+                           margin-left: -76px;
+                           color:  hsl(333, 80%, 67%);
+                           font-weight:400;
+
+                        }
+
+         
+        .Ireneparagraph { margin-top: 30px;
+                          color: hsl(300, 24%, 96%);
+                          margin-left: 15px;
+                          font-size: 14px;
+                          font-weight: 300;
+                          font-family:'League Spartan', sans-serif;}
+
+
+                                
+.AnneWallace { width: 280px;
+               height: 170px;
+               background-color: hsl(300, 43%, 22%);
+               position: absolute;
+               margin-left: 830px;
+               margin-top: 122px;
+               border-radius: 5px;
+               color: white;
+}
+
+
+.Anne {width: 30px;
+       height: 30px;
+       margin-top: 30px;
+       margin-left: 20px;
+       border-radius: 50px;
+       position: absolute;
+       }
+
+       .Annename{ margin-top:30px;
+                  display: inline-block;
+                  font-size: 14px;
+                  margin-left: 70px; 
+                  font-family:    'League Spartan', sans-serif;
+                  font-weight: 500;
+
+       }
+       .Annename::after { position: absolute;
+                          content: "IreneRoberts";
+                          margin-top: 16px;
+                          margin-left: -76px;
+                          color:  hsl(333, 80%, 67%);
+                          font-weight:400;
+
+                        }
+
+         
+        .Anneparagraph {  margin-top: 30px;
+                          color: hsl(300, 24%, 96%);
+                          margin-left: 15px;
+                          font-size: 14px;
+                          font-weight: 300;
+                          font-family:'League Spartan', sans-serif;}
+
+
+
+
+
+
+
