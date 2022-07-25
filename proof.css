@@ -181,7 +181,7 @@
 
        }
        .Irenename::after { position: absolute;
-                           content: "IreneRoberts";
+                           content: "Verified Buyer";
                            margin-top: 16px;
                            margin-left: -76px;
                            color:  hsl(333, 80%, 67%);
@@ -227,7 +227,7 @@
 
        }
        .Annename::after { position: absolute;
-                          content: "IreneRoberts";
+                          content:"Verified Buyer";
                           margin-top: 16px;
                           margin-left: -76px;
                           color:  hsl(333, 80%, 67%);
